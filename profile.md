@@ -15,3 +15,6 @@
 
 **Fun fact:**
 - I enjoy building small electronics projects and experimenting with IoT devices.
+
+**Availability:**
+- Open to pair-programming and collaborating on weekend projects.
